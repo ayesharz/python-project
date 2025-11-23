@@ -14,6 +14,10 @@ Remove tasks by number
 Mark tasks as done
 
 Menu-driven interface
+This is the output:
+![WhatsApp Image 2025-11-23 at 11 52 02 PM](https://github.com/user-attachments/assets/8bb30ebe-7a8b-4905-964b-39bc2673a767)
+
+![WhatsApp Image 2025-11-23 at 11 52 22 PM](https://github.com/user-attachments/assets/147dbd9d-6630-4a56-a5e9-3a03064c3346)
 
 ▶️ Run the Program
 
